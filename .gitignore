@@ -1,0 +1,5 @@
+*.swp
+*.retry
+*~
+log
+.ansible.cfg.d
